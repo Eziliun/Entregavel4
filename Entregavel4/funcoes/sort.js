@@ -33,7 +33,7 @@ function quicksort(array) {
 
   
 
-  console.log("array original", array);
-  console.log("array ordenado", arrayOrdenado);
+  //console.log("array original", array);
+  //console.log("array ordenado", arrayOrdenado);
  
 module.exports = quicksort;
